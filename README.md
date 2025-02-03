@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Angular , Spring, Ionic, Docker, Microservices, ...**
+- 💬 Ask me about **Angular , Spring, Ionic, Docker, Microservices**
 
 - 📫 How to reach me **mayssamhedhli.contact@gmail.com**
 
@@ -60,5 +60,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayssam22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mayssam22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayssam22&show_icons=true&locale=en&theme=tokyonight" alt="mayssam22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayssam22&&theme=tokyonight" alt="mayssam22" /></p>
